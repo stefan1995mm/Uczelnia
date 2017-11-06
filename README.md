@@ -1,3 +1,3 @@
 # Uczelnia
 
-http://cpp0x.pl/artykuly/?id=15
+http://en.cppreference.com/w/cpp/language/operator_arithmetic
